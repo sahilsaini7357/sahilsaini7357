@@ -1,4 +1,4 @@
-## Hello , I'm  Sahil 👋
+## Hello, I'm  Sahil 👋
 
 I'm a passionate Front-End Developer with expertise in HTML, CSS, javascript, and React. 
 ### About Me:
